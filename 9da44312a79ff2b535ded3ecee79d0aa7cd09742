@@ -6,16 +6,16 @@
   "timestamp": "2026-04-17T18:36:18+03:00",
   "detection": {
     "ai_assisted": true,
-    "method": "heuristic",
-    "tool": "claude-code",
+    "method": "editor_hook",
+    "tool": "claude",
     "model": "",
-    "confidence": 0.95
+    "confidence": 1.0
   },
   "stats": {
     "total_additions": 313,
-    "total_deletions": 379,
+    "total_deletions": 0,
     "ai_additions": 313,
-    "ai_deletions": 379,
+    "ai_deletions": 0,
     "human_additions": 0,
     "human_deletions": 0
   },
@@ -23,56 +23,74 @@
     "README.md": {
       "ai_additions": 18,
       "human_additions": 0,
-      "ai_deletions": 1,
-      "human_deletions": 0
+      "ai_deletions": 0,
+      "human_deletions": 0,
+      "ai_lines": "5,319-335",
+      "human_lines": ""
     },
     "claude/CLAUDE.md": {
       "ai_additions": 36,
       "human_additions": 0,
-      "ai_deletions": 378,
-      "human_deletions": 0
+      "ai_deletions": 0,
+      "human_deletions": 0,
+      "ai_lines": "4-5,7,18,39,43,45,51,53,55,57,59,61,67,77,79,85,87-91,93,99,105,109,111-120",
+      "human_lines": ""
     },
     "claude/rules/code-quality.md": {
       "ai_additions": 26,
       "human_additions": 0,
       "ai_deletions": 0,
-      "human_deletions": 0
+      "human_deletions": 0,
+      "ai_lines": "1-10,45-60",
+      "human_lines": ""
     },
     "claude/rules/context-summary.md": {
       "ai_additions": 65,
       "human_additions": 0,
       "ai_deletions": 0,
-      "human_deletions": 0
+      "human_deletions": 0,
+      "ai_lines": "1-65",
+      "human_lines": ""
     },
     "claude/rules/debugging.md": {
       "ai_additions": 62,
       "human_additions": 0,
       "ai_deletions": 0,
-      "human_deletions": 0
+      "human_deletions": 0,
+      "ai_lines": "1-62",
+      "human_lines": ""
     },
     "claude/rules/documentation.md": {
       "ai_additions": 20,
       "human_additions": 0,
       "ai_deletions": 0,
-      "human_deletions": 0
+      "human_deletions": 0,
+      "ai_lines": "1-20",
+      "human_lines": ""
     },
     "claude/rules/git-workflow.md": {
       "ai_additions": 33,
       "human_additions": 0,
       "ai_deletions": 0,
-      "human_deletions": 0
+      "human_deletions": 0,
+      "ai_lines": "1-33",
+      "human_lines": ""
     },
     "claude/rules/security.md": {
       "ai_additions": 29,
       "human_additions": 0,
       "ai_deletions": 0,
-      "human_deletions": 0
+      "human_deletions": 0,
+      "ai_lines": "1-29",
+      "human_lines": ""
     },
     "claude/rules/task-completion.md": {
       "ai_additions": 24,
       "human_additions": 0,
       "ai_deletions": 0,
-      "human_deletions": 0
+      "human_deletions": 0,
+      "ai_lines": "1-24",
+      "human_lines": ""
     }
   }
 }
