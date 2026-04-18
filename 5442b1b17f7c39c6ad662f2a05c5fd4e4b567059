@@ -1,0 +1,78 @@
+{
+  "schema_version": "1.0.0",
+  "mode": "full",
+  "commit_sha": "5442b1b17f7c39c6ad662f2a05c5fd4e4b567059",
+  "author": "166901+andreibogdan@users.noreply.github.com",
+  "timestamp": "2026-04-18T17:39:32+03:00",
+  "detection": {
+    "ai_assisted": true,
+    "method": "heuristic",
+    "tool": "claude-code",
+    "model": "",
+    "confidence": 0.95
+  },
+  "stats": {
+    "total_additions": 313,
+    "total_deletions": 379,
+    "ai_additions": 313,
+    "ai_deletions": 379,
+    "human_additions": 0,
+    "human_deletions": 0
+  },
+  "files": {
+    "README.md": {
+      "ai_additions": 18,
+      "human_additions": 0,
+      "ai_deletions": 1,
+      "human_deletions": 0
+    },
+    "claude/CLAUDE.md": {
+      "ai_additions": 36,
+      "human_additions": 0,
+      "ai_deletions": 378,
+      "human_deletions": 0
+    },
+    "claude/rules/code-quality.md": {
+      "ai_additions": 26,
+      "human_additions": 0,
+      "ai_deletions": 0,
+      "human_deletions": 0
+    },
+    "claude/rules/context-summary.md": {
+      "ai_additions": 65,
+      "human_additions": 0,
+      "ai_deletions": 0,
+      "human_deletions": 0
+    },
+    "claude/rules/debugging.md": {
+      "ai_additions": 62,
+      "human_additions": 0,
+      "ai_deletions": 0,
+      "human_deletions": 0
+    },
+    "claude/rules/documentation.md": {
+      "ai_additions": 20,
+      "human_additions": 0,
+      "ai_deletions": 0,
+      "human_deletions": 0
+    },
+    "claude/rules/git-workflow.md": {
+      "ai_additions": 33,
+      "human_additions": 0,
+      "ai_deletions": 0,
+      "human_deletions": 0
+    },
+    "claude/rules/security.md": {
+      "ai_additions": 29,
+      "human_additions": 0,
+      "ai_deletions": 0,
+      "human_deletions": 0
+    },
+    "claude/rules/task-completion.md": {
+      "ai_additions": 24,
+      "human_additions": 0,
+      "ai_deletions": 0,
+      "human_deletions": 0
+    }
+  }
+}
